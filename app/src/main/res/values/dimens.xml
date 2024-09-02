@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="album_title">30sp</dimen>
+    <dimen name="title_margin_top">50dp</dimen>
+    <dimen name="button_begin_margin_top">50dp</dimen>
+</resources>
